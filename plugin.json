@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bible-lookup",
+  "description": "Look up Bible passages in the King James Version (KJV) or Berean Standard Bible (BSB), both public domain.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kyle Morrow"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bible",
+    "scripture",
+    "kjv",
+    "bsb",
+    "mcp"
+  ]
+}
